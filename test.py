@@ -1,6 +1,6 @@
 import pytest
 import os.path
-#import main
+import main
 
 # Тест на создание БД
 def test_create_database():  
